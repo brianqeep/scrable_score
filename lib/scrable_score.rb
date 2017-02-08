@@ -1,6 +1,7 @@
 class String
 
   define_method(:scrable_score) do
+    
     scr_one = ["a","e", "i", "o", "u", "l", "n", "r", "s", "t"]
     scr_two = ["d","g"]
     scr_three = ["b","c","m","p"]
